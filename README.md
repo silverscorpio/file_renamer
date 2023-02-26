@@ -1,0 +1,1 @@
+python-based tool to remove spaces from filenames as they failed to upload to OneDrive due to invalid filenames (spaces in them) and there were tons of them!
